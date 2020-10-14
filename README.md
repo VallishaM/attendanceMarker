@@ -76,6 +76,6 @@ Install python, install pandas and then run Attendance Master trough cmd or by s
 
 Hope you like it.
 
-Suggestions are welcome. I am a second-year undergraduate student, your suggestions will help go a long way in my anticipated career.
+Suggestions are welcome. I am a second-year undergraduate student, your suggestions will help me in my anticipated career.
 
 Thank you for your time.
