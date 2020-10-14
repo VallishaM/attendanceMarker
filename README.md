@@ -12,11 +12,15 @@ The key advantage is that you can mark the attendance of a class across all the 
 
 ## What must you do? ##
 
+
 Note - Downloaded CSV file is referred to as "Source file"
+
      - The excel file that has a column with the header "Name"(case sensitive) is referred to as destination file
 
 In the destination folder, under the column "Name", the names of students in the class must be there.
+
 Attendance will be appended as successive columns for each date for which the attendance is being marked.
+
 The presence of any other columns (eg.Roll number of students) will not affect the functioning of the Attendance Marker.
 
 Just run the .py file, first select file/folder.
@@ -24,9 +28,11 @@ Just run the .py file, first select file/folder.
 ### What is file option(feature 1)? ###
 
 After you click on the "file" button, you will be prompted to select the downloaded file.
+
 After you select the source file, you will be prompted to select the destination file.
 
 Job Done!
+
 Open the "destination file" to check the attendance.
 
 
@@ -53,6 +59,7 @@ I have noticed some students have wrong names with Google account.
 By wrong, I mean name like;
 
 Real Name - Sushant
+
 Name with Google Account - Sushant Sushant
 
 ***Name Repeated, separated by whitespace***
