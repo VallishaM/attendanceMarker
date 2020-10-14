@@ -1,4 +1,4 @@
-# attendanceMarker#
+# attendanceMarker
 
 ##What this does?##
 
