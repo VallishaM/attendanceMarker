@@ -28,7 +28,7 @@ Attendance will be appended as successive columns for each date for which the at
 
 The presence of any other columns (eg.Roll number of students) will not affect the functioning of the Attendance Marker.
 
-Just run the .py file, first select file/folder.
+Just run the .py file, first select file/folder .
 
 ### What is file option(feature 1)? ###
 
