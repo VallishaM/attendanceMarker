@@ -49,7 +49,7 @@ This is done by selecting this option.
 
 Select the source folder, then the destination file, and Done!
 
-## Additional Features ##
+## Features ##
 
 ### Minimum time for attendance(feature3) ##
 
