@@ -13,9 +13,12 @@ The key advantage is that you can mark the attendance of a class across all the 
 ## What must you do? ##
 
 
-Note - Downloaded CSV file is referred to as "Source file"
+Note;
 
-     - The excel file that has a column with the header "Name"(case sensitive) is referred to as destination file
+Downloaded CSV file is referred to as "Source file"
+
+The excel file that has a column with the header "Name"(case sensitive) is referred to as destination file
+
 
 In the destination folder, under the column "Name", the names of students in the class must be there.
 
