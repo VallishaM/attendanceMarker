@@ -61,7 +61,7 @@ Note - If a student connects and disconnects multiple times the total duration o
 
 I have noticed some students have wrong names with Google account.
 
-By wrong, I mean name like;
+By wrong, I mean;
 
 Real Name - Sushant
 
@@ -81,6 +81,6 @@ Install python, install pandas and then run Attendance Master trough cmd or by s
 
 Hope you like it.
 
-Suggestions are welcome. I am a second-year undergraduate student, your suggestions will help me in my anticipated career.
+Suggestions are welcome.
 
 Thank you for your time.
